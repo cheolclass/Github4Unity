@@ -61,7 +61,7 @@ public class GameMain : MonoBehaviour
         TotalBricks = 0;
         for (int i = 0; i < Bricks.Count; i++)   /// 4 종류 벽돌을 한 줄에 BrickAcross 수(8) 만큼 놓아줌
         {
-            float x = brickX;
+            float x = brickX;  /// 매 줄마다, 맨 왼쪽에서부터 배열
             for (int j = 0; j < BrickAcross; j++)
             {
                 GameObject block = Instantiate(Bricks[i]);
