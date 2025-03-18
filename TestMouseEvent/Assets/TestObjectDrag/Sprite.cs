@@ -2,36 +2,29 @@ using UnityEngine;
 
 public class Sprite : MonoBehaviour
 {
-    private bool isDragging;
+    private Vector2 offset;
 
     public void OnMouseDown()
     {
-        isDragging = true;
+        offset = (Vector2)transform.position
+            - (Vector2)Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+        Debug.Log("SpriteOnMouseDown...");
     }
 
     public void OnMouseUp()
     {
-        isDragging = false;
+        Debug.Log("SpriteOnMouseUp...");
     }
 
     public void OnMouseDrag()
-    {        
-        if (isDragging)
-        {
-            Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
-            transform.Translate(mousePos);
-
-            Debug.Log("Dragging sprite...");
-        }
-
-    }
-
-    // Update is called once per frame
-    void Update()
     {
-        //Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
-        //transform.Translate(mousePos);
+        // 부드러운 이동
+        Vector2 newPosition =
+            (Vector2) Camera.main.ScreenToWorldPoint(Input.mousePosition) + offset;
+        transform.position = newPosition;
 
-        //Debug.Log("Dragging sprite...");
+        Debug.Log("SpriteOnMouseDrag...");
     }
+
 }

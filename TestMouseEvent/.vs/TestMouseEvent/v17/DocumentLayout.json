@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\_CH2\\Github4Unity\\TestMouseEvent\\",
+  "WorkspaceRootPath": "C:\\_CH\\Github4Unity\\TestMouseEvent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|d:\\_ch2\\github4unity\\testmouseevent\\assets\\testobjectdrag\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|c:\\_ch\\github4unity\\testmouseevent\\assets\\testobjectdrag\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\testobjectdrag\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|C:\\_CH\\Github4Unity\\TestMouseEvent\\assets\\testobjectdrag\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\testobjectdrag\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|C:\\_CH\\Github4Unity\\TestMouseEvent\\assets\\testobjectdrag\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\testobjectdrag\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|C:\\_CH\\Github4Unity\\TestMouseEvent\\assets\\testobjectdrag\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF013F9-B64C-287E-AB91-DF711AA0BE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\testobjectdrag\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +26,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\Sprite.cs",
+              "RelativeDocumentMoniker": "Assets\\TestObjectDrag\\Sprite.cs",
+              "ToolTip": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\Sprite.cs",
+              "RelativeToolTip": "Assets\\TestObjectDrag\\Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:01:21.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\Block.cs",
+              "RelativeDocumentMoniker": "Assets\\TestObjectDrag\\Block.cs",
+              "ToolTip": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\Block.cs",
+              "RelativeToolTip": "Assets\\TestObjectDrag\\Block.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:01:20.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\Button.cs",
+              "RelativeDocumentMoniker": "Assets\\TestObjectDrag\\Button.cs",
+              "ToolTip": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\Button.cs",
+              "RelativeToolTip": "Assets\\TestObjectDrag\\Button.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:02:55.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TextBox.cs",
-              "DocumentMoniker": "D:\\_CH2\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\TextBox.cs",
+              "DocumentMoniker": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\TextBox.cs",
               "RelativeDocumentMoniker": "Assets\\TestObjectDrag\\TextBox.cs",
-              "ToolTip": "D:\\_CH2\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\TextBox.cs",
+              "ToolTip": "C:\\_CH\\Github4Unity\\TestMouseEvent\\Assets\\TestObjectDrag\\TextBox.cs",
               "RelativeToolTip": "Assets\\TestObjectDrag\\TextBox.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA6wCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T01:02:17.53Z",
               "EditorCaption": ""
