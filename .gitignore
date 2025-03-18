@@ -12,7 +12,7 @@
 # 빌드 결과물 제외
 **/*.apk
 **/*.aab
-**/*.unitypackage
+#**/*.unitypackage
 
 # Visual Studio 관련 파일 제외
 **/.vscode/
