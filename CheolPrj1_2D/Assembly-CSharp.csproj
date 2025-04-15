@@ -61,26 +61,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Cheol&apos;s Projects\Knight Sword\PlayerMoveLR.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\BrickBreaker\Ball.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\Knight Sword\GoalHandler.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
-    <Compile Include="Assets\MyTest2\Scripts\blickT2.cs" />
-    <Compile Include="Assets\Scripts\GoalHandler.cs" />
-    <Compile Include="Assets\Scripts\BrickBreaker\Ball.cs" />
-    <Compile Include="Assets\Scripts\PlayerMoveVirtual.cs" />
-    <Compile Include="Assets\MyTest\Scripts\GameManager2.cs" />
-    <Compile Include="Assets\Scripts\ItemHandler.cs" />
-    <Compile Include="Assets\MyTest2\Scripts\gameMngrT2.cs" />
-    <Compile Include="Assets\MyTest\Scripts\Brick2.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\BrickBreaker\GameMain.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\Knight Sword\PlayerMove.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\Knight Sword\ItemHandler.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
-    <Compile Include="Assets\Scripts\PlayerMoveLR.cs" />
-    <Compile Include="Assets\Scripts\PlayerMove.cs" />
-    <Compile Include="Assets\Scripts\BrickBreaker\GameMain.cs" />
-    <Compile Include="Assets\Test4Coordi&amp;UI\Scripts\BrickMngr.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\MyTest\Scripts\GameManager2.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\MyTest\Scripts\TestMouseEvent1.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\Test4Coordi&amp;UI\Scripts\BrickMngr.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\MyTest\Scripts\Brick2.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
-    <Compile Include="Assets\MyTest\Scripts\TestMouseEvent1.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
+    <Compile Include="Assets\Cheol&apos;s Projects\Knight Sword\PlayerMoveVirtual.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
