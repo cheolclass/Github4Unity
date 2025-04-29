@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5EFE2E3-B233-51DE-4206-DDA9DAE03E64}|Assembly-CSharp.csproj|c:\\_ch\\github4unity\\cheol\u0027s proj\\assets\\cheol\u0027s projects\\brickbreaker\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5EFE2E3-B233-51DE-4206-DDA9DAE03E64}|Assembly-CSharp.csproj|solutionrelative:assets\\cheol\u0027s projects\\brickbreaker\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EFE2E3-B233-51DE-4206-DDA9DAE03E64}|Assembly-CSharp.csproj|C:\\_CH\\Github4Unity\\cheol\u0027s proj\\assets\\cheol\u0027s projects\\brickbreaker\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EFE2E3-B233-51DE-4206-DDA9DAE03E64}|Assembly-CSharp.csproj|solutionrelative:assets\\cheol\u0027s projects\\brickbreaker\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMain.cs",
+              "DocumentMoniker": "C:\\_CH\\Github4Unity\\cheol\u0027s proj\\Assets\\Cheol\u0027s Projects\\BrickBreaker\\GameMain.cs",
+              "RelativeDocumentMoniker": "Assets\\Cheol\u0027s Projects\\BrickBreaker\\GameMain.cs",
+              "ToolTip": "C:\\_CH\\Github4Unity\\cheol\u0027s proj\\Assets\\Cheol\u0027s Projects\\BrickBreaker\\GameMain.cs",
+              "RelativeToolTip": "Assets\\Cheol\u0027s Projects\\BrickBreaker\\GameMain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:07:14.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\_CH\\Github4Unity\\cheol\u0027s proj\\Assets\\Cheol\u0027s Projects\\BrickBreaker\\Ball.cs",
               "RelativeDocumentMoniker": "Assets\\Cheol\u0027s Projects\\BrickBreaker\\Ball.cs",
               "ToolTip": "C:\\_CH\\Github4Unity\\cheol\u0027s proj\\Assets\\Cheol\u0027s Projects\\BrickBreaker\\Ball.cs",
               "RelativeToolTip": "Assets\\Cheol\u0027s Projects\\BrickBreaker\\Ball.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T06:49:11.303Z",
               "EditorCaption": ""
